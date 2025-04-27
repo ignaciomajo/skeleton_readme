@@ -53,4 +53,6 @@ Esto descargará un archivo comprimido `.zip`, que podras alojar en el directori
 
 ![imagen-readme](https://github.com/user-attachments/assets/133bc743-0424-4120-a7a6-7245d2f28f8c)
 
-**| Ignacio Majo | Data Scientist Junior | Junior RPA Developer |**
+**| Ignacio Majo | Data Scientist Junior |**
+
+📫 Contacto: ignacio.majoo@gmail.com | 💻[LinkedIn](https://www.linkedin.com/in/ignacio-majo/)
